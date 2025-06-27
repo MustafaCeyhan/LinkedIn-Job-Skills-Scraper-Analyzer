@@ -1,12 +1,3 @@
-Ran tool
-Read file: main.ipynb
-Read file: scraper.py
-Bu repoda LinkedIn iş ilanlarından belirli pozisyonlar için veri çekip, bu ilanlardaki yetkinlikleri analiz eden bir Python uygulaması var. Ana dosya `main.ipynb` ve veri çekme işlemi `scraper.py` ile yapılıyor.
-
-İşte İngilizce bir README taslağı:
-
----
-
 # LinkedIn Job Skills Scraper & Analyzer
 
 ## Overview
@@ -38,5 +29,3 @@ This project scrapes job postings from LinkedIn for selected job titles and loca
 ## Notes
 - For educational/research use only. Scraping LinkedIn may violate their terms of service.
 - The script uses semantic similarity to ensure relevant job matches.
-
----
