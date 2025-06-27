@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+pandas
+sentence-transformers
+fuzzywuzzy
+tqdm
+openai
+tiktoken
